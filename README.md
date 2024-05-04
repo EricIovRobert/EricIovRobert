@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricIovRobert
 - 👀 I’m interested in coding, music and motorcycles
-- 🌱 I’m currently learning various IT skills such as: Robotics, Software Engineering, Database Administration, etc.
+- 🌱 I’m currently learning various IT skills such as: Robotics, Software Engineering, Database Administration, AI, Programming and more!
 - 💞️ I’m looking to collaborate on different IT projects that will expand my knowledge in all sorts of domains.
 
 <!---
